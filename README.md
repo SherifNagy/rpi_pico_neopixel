@@ -1,4 +1,4 @@
-This is a playground repo to explore newpixles features with Raspberry pi PICO,  we are not responsible for any damage this code might cause to your computers, board, house ,etcc...., use or on your own RISK!!!!!
+This is a playground repo to explore neopixels features with Raspberry pi PICO,  we are not responsible for any damage this code might cause to your computers, board, house ,etcc...., use or on your own RISK!!!!!
 
 - Make sure to install micropython, I followed this guide https://learn.pimoroni.com/article/getting-started-with-pico
 - Make sure that the lights are WS2812B
